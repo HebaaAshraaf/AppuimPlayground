@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7be44e-2b52-47a4-ab30-0b463d8ed0b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestMobWebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestMobWebApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\ITI-Intake40\Mobile Automation\Labs\AppuimPlayground\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDsWRR73kYQPVzBjSNgQ8eUgKp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestMobWebApp">
+    <configuration name="TestMobWebApp (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMobWebApp" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMobWebApp (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMobWebApp" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMobWebApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_251" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMobWebApp" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMobWebApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_251" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMobWebApp" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestMobWebApp" />
+      <item itemvalue="TestNG.TestMobWebApp (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestMobWebApp" />
+        <item itemvalue="TestNG.TestMobWebApp" />
+        <item itemvalue="TestNG.TestMobWebApp (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7be44e-2b52-47a4-ab30-0b463d8ed0b1" name="Default Changelist" comment="" />
+      <created>1590074529839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590074529839</updated>
+    </task>
+    <task id="LOCAL-00001" summary="My First Mobile Test Automation Project">
+      <created>1590598695984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590598695984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My First Mobile Test Automation Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="My First Mobile Test Automation Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Notifications" timestamp="1590597623752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590597623752" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590681271998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590681271998" />
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1590598692074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590598692074" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1590681258182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590681258182" />
+    <state x="521" y="282" width="347" height="163" key="Github.CreateGistDialog" timestamp="1590597551642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="282" width="347" height="163" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1590597551642" />
+    <state x="537" y="263" width="381" height="262" key="Github.ShareDialog" timestamp="1590599013238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="537" y="263" width="381" height="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1590599013238" />
+    <state width="661" height="176" key="GridCell.Tab.0.bottom" timestamp="1590681540194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590681540194" />
+    <state width="661" height="176" key="GridCell.Tab.0.center" timestamp="1590681540193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590681540193" />
+    <state width="661" height="176" key="GridCell.Tab.0.left" timestamp="1590681540193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590681540193" />
+    <state width="661" height="176" key="GridCell.Tab.0.right" timestamp="1590681540193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590681540193" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1590598964608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590598964608" />
+    <state x="425" y="168" key="git4idea.merge.GitPullDialog" timestamp="1590598779115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="168" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1590598779115" />
+  </component>
+</project>
