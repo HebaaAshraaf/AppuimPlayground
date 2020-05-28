@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7be44e-2b52-47a4-ab30-0b463d8ed0b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestMobWebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestMobWebApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/TestMyMobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestMobWebApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestMobWebApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -45,43 +48,9 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MobileTestAutomationTask2" />
   </component>
-  <component name="RunManager" selected="TestNG.TestMobWebApp">
-    <configuration name="TestMobWebApp (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AppuimPlayground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestMobWebApp" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMobWebApp (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AppuimPlayground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestMobWebApp" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestMyMobile (2)">
     <configuration name="TestMobWebApp" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AppuimPlayground" />
       <extension name="coverage">
@@ -130,6 +99,75 @@
         <value defaultName="moduleWithDependencies" />
       </option>
       <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyMobile (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMyMobile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyMobile (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMyMobile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyMobile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMyMobile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyMobile.runFirstScript" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppuimPlayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestMyMobile" />
+      <option name="METHOD_NAME" value="runFirstScript" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -138,13 +176,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.TestMobWebApp" />
-      <item itemvalue="TestNG.TestMobWebApp (2)" />
+      <item itemvalue="TestNG.TestMyMobile.runFirstScript" />
+      <item itemvalue="TestNG.TestMyMobile" />
+      <item itemvalue="TestNG.TestMyMobile (1)" />
+      <item itemvalue="TestNG.TestMyMobile (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestMyMobile (2)" />
+        <item itemvalue="TestNG.TestMyMobile" />
+        <item itemvalue="TestNG.TestMyMobile (1)" />
+        <item itemvalue="TestNG.TestMyMobile.runFirstScript" />
         <item itemvalue="TestNG.TestMobWebApp" />
-        <item itemvalue="TestNG.TestMobWebApp" />
-        <item itemvalue="TestNG.TestMobWebApp (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590598695984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My First Mobile Test Automation Project">
+      <created>1590682271057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682271057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,14 +244,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590681271998" />
-    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1590598692074">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1590708750987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590598692074" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1590681258182">
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590708750987" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1590708268327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590681258182" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590708268327" />
     <state x="521" y="282" width="347" height="163" key="Github.CreateGistDialog" timestamp="1590597551642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -210,29 +260,48 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="537" y="263" width="381" height="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1590599013238" />
-    <state width="661" height="176" key="GridCell.Tab.0.bottom" timestamp="1590681540194">
+    <state width="661" height="176" key="GridCell.Tab.0.bottom" timestamp="1590708677860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590681540194" />
-    <state width="661" height="176" key="GridCell.Tab.0.center" timestamp="1590681540193">
+    <state width="661" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590708677860" />
+    <state width="661" height="176" key="GridCell.Tab.0.center" timestamp="1590708677860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590681540193" />
-    <state width="661" height="176" key="GridCell.Tab.0.left" timestamp="1590681540193">
+    <state width="661" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590708677860" />
+    <state width="661" height="176" key="GridCell.Tab.0.left" timestamp="1590708677860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590681540193" />
-    <state width="661" height="176" key="GridCell.Tab.0.right" timestamp="1590681540193">
+    <state width="661" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590708677860" />
+    <state width="661" height="176" key="GridCell.Tab.0.right" timestamp="1590708677860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590681540193" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1590598964608">
+    <state width="661" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590708677860" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1590682413204">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590598964608" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590682413204" />
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590708754581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590708754581" />
     <state x="425" y="168" key="git4idea.merge.GitPullDialog" timestamp="1590598779115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="425" y="168" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1590598779115" />
+    <state x="65" y="69" key="new project wizard" timestamp="1590682521296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="69" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590682521296" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/TestMyMobile.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
